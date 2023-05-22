@@ -1,0 +1,21 @@
+{
+  "kind": "singleType",
+  "collectionName": "top_left_menus",
+  "info": {
+    "singularName": "top-left-menu",
+    "pluralName": "top-left-menus",
+    "displayName": "Top-left-menu"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "body": {
+      "displayName": "top-left-menu",
+      "type": "component",
+      "repeatable": false,
+      "component": "topleftmenu.top-left-menu"
+    }
+  }
+}

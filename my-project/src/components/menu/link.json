@@ -1,0 +1,25 @@
+{
+  "collectionName": "components_menu_links",
+  "info": {
+    "displayName": "link",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "url": {
+      "type": "string"
+    },
+    "style": {
+      "type": "enumeration",
+      "enum": [
+        "none",
+        "border",
+        "blue"
+      ],
+      "default": "none"
+    },
+    "label": {
+      "type": "string"
+    }
+  }
+}

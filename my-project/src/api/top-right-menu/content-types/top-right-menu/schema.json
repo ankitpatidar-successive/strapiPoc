@@ -1,0 +1,18 @@
+{
+  "kind": "singleType",
+  "collectionName": "top_right_menus",
+  "info": {
+    "singularName": "top-right-menu",
+    "pluralName": "top-right-menus",
+    "displayName": "top-right-menu"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "Fashion": {
+      "type": "json"
+    }
+  }
+}
